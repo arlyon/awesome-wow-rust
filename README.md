@@ -11,5 +11,5 @@ This resource will act like a hub to share ideas and experiment with alternative
 ## Libraries
 
 - [wow-srp](https://github.com/gtker/wow_srp): wow's flavour of SRP-6 authentication
-- [wow_login_messages](https://github.com/gtker/wow_messages/wow_login_messages): datastructures for the wow login page
+- [wow_login_messages](https://github.com/gtker/wow_messages): datastructures for the wow login server
 - [wow_message_parser](https://github.com/gtker/wow_messages/tree/main/wow_message_parser): a pest-based parser for wow packets
