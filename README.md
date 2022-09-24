@@ -1,5 +1,7 @@
 # awesome-wow-rust
 
+> 🚨 We have a discord server! Please join if you'd like to get involved: https://discord.gg/RjSytaEuuX
+
 Excellent resources for world of warcraft private servers in rust. There is still a lot of room for experimentation with a few differing approaches.
 This resource will act like a hub to share ideas and experiment with alternatives.
 
