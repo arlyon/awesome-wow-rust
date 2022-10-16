@@ -20,7 +20,9 @@ This resource will act like a hub to share ideas and experiment with alternative
 - [wowm](https://gtker.com/wow_messages/): a DSL for the world of warcraft protocol, aiming to cover client / server for versions 1.x, 2.x, and 3.x
 - [wow_dbc](https://github.com/gtker/wow_dbc): library for reading 1.12, 2.4.3, and 3.3.5 DBC files
 - [wow_chunky](https://github.com/bigglesss/wow_chunky): library for reading 1.12, 2.4.3 and 3.3.5 binary files (ADT, WDT, BLP, BLS)
+- [divert](https://github.com/0xFounders/divert): Rust bindings for the namigator WoW pathfinding library
 
 ## Tools
 
 - [forge](https://github.com/bigglesss/forge): a pure-Rust WoW renderer, using wow_chunky to parse WDT/ADT/BLP files and render them with Bevy
+- [idewave-cli](https://github.com/idewave/idewave-cli): a world of warcraft client as a cli.
