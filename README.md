@@ -28,6 +28,7 @@ This resource will act like a hub to share ideas and experiment with alternative
 - [wow_chunky](https://github.com/bigglesss/wow_chunky): library for reading 1.12, 2.4.3 and 3.3.5 binary files (ADT, WDT, BLP, BLS)
 - [wowdbdefs-rs](https://github.com/gtker/wowdbdefs-rs): Library for reading [WoWDbDefs DBC file definitions](https://github.com/wowdev/WoWDBDefs).
 - [image-blp](https://github.com/zloy-tulen/image-blp): Library for reading Blizzard BLP files
+- [warcraft-rs](https://github.com/wowemulation-dev/warcraft-rs): A collection of crates for WoW 1.x to 5.x file formats, which support up- and downgrade between format versions. Currently supported: MPQ, ADT, WDT, WDL, M2, WMO and DBC
 
 ## Tools
 
