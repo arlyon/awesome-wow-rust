@@ -34,3 +34,4 @@ This resource will act like a hub to share ideas and experiment with alternative
 
 - [forge](https://github.com/bigglesss/forge): a pure-Rust WoW renderer, using wow_chunky to parse WDT/ADT/BLP files and render them with Bevy
 - [idewave-cli](https://github.com/idewave/idewave-cli): a world of warcraft client as a cli.
+- [worgen-rs](https://github.com/nocthir/worgen-rs): a desktop 3D asset viewer for WoW models and maps, built with warcraft-rs and bevy.
